@@ -39,10 +39,16 @@ for i in q:
 """
     
 #Displays the list of keys
- 
+
+"""
 print(list(q.keys()))
 
 print(list(q.values()))
 
 a = list(q.keys())
 print(a[0])
+"""
+
+#Display the list of the items in the dictionary
+
+print(q.items())   #This gives the data in iteratable format in terms of Keys and values
