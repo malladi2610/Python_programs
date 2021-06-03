@@ -34,7 +34,7 @@ list = [[random.randrange(1,50,1) for i in range(1,rows)] for j in range(1,col)]
 for i in range(len(list)):
     for j in range(len(list[i])):
         
-        print(list[i][j], end = " ")
+        print(list[i][j],end = " ")
     print()
     
 print("\nThe Upper triangular matrix of the generated matrix is : \n")
