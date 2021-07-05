@@ -1,0 +1,1 @@
+& C:/Python39/python.exe "d:/3rd year/6th SEM/Python/Python_programs/Python_programs/files/introduction.py"

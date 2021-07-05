@@ -1,0 +1,7 @@
+1	bnm	10
+1	bm1	10
+3	mhj	10
+1	fgh	10
+5	rty	10
+5	yut	10
+6	thg	10
